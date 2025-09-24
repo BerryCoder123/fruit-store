@@ -1,11 +1,3 @@
 # fruit-store
 come shop fresh
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Fresh Fruits & Vegetables Store</title>
-  <style>
-    /* Reset & basic styles */
-    * {
+its me prashant
